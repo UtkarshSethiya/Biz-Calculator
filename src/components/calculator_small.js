@@ -514,7 +514,7 @@ function checkname(event){
                        <div className='col-2 '><img className='logo'  src={logo} height='80px' ></img>
                        
                         <p className='adress'>  To : {fullname}<br></br>{mail} <br></br>   {gst}</p></div>
-                       <div className='col-4 bf'>  <p> Date: {today} <br></br>   Plan : <span className='total2'>Small</span> </p> </div>
+                       <div className='col-4 bf'>  <p> Date: {today} <br></br>   Plan: <span className='total2'>Small</span> </p> </div>
                         
                       
                         </div>
